@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/anna/work/project/androidapp/app/build/intermediates/res/merged/debug/layout/activity_call.xml",
+        "source": "/Users/anna/work/project/androidapp/app/src/main/res/layout/activity_call.xml"
+    },
+    {
+        "merged": "/Users/anna/work/project/androidapp/app/build/intermediates/res/merged/debug/layout/activity_connect.xml",
+        "source": "/Users/anna/work/project/androidapp/app/src/main/res/layout/activity_connect.xml"
+    },
+    {
+        "merged": "/Users/anna/work/project/androidapp/app/build/intermediates/res/merged/debug/layout/fragment_hud.xml",
+        "source": "/Users/anna/work/project/androidapp/app/src/main/res/layout/fragment_hud.xml"
+    },
+    {
+        "merged": "/Users/anna/work/project/androidapp/app/build/intermediates/res/merged/debug/layout/fragment_call.xml",
+        "source": "/Users/anna/work/project/androidapp/app/src/main/res/layout/fragment_call.xml"
+    }
+]

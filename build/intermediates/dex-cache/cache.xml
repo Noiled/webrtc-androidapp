@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anna/work/project/androidapp/app/libs/autobanh.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="/Users/anna/work/project/androidapp/app/build/intermediates/pre-dexed/debug/autobanh_5393f51cf33dec727f341c649cc1d959d35e3bf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anna/work/project/androidapp/app/libs/libjingle_peerconnection_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c5e5c75b0484997f9ccc334dc50721053c0cf7b">
+        <dex dex="/Users/anna/work/project/androidapp/app/build/intermediates/pre-dexed/debug/libjingle_peerconnection_java_427c3cbe2319b3a7d756b93213a3ef2c3e419cd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anna/work/project/androidapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f54cf0d9a6e37cac94546dbe51cb2de7197255c">
+        <dex dex="/Users/anna/work/project/androidapp/app/build/intermediates/pre-dexed/debug/instant-run_1c505feced3a3713a3ae944edbd13ec8ee07bf31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anna/work/project/androidapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6677dc8086a351876a9e647be9968271f9304614">
+        <dex dex="/Users/anna/work/project/androidapp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_0a673eefb5ea46f486f304c6714053f354e95ae4.jar" />
+    </item>
+
+</items>

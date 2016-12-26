@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "25.0.1"
+
+    defaultConfig {
+        applicationId "org.appspot.apprtc"
+        minSdkVersion 16
+        targetSdkVersion 21
+
+        testApplicationId "org.appspot.apprtc.test"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/libjingle_peerconnection_java.jar')
+    compile files('libs/autobanh.jar')
+    compile fileTree(include: '*/so', dir: 'libs')
+}
